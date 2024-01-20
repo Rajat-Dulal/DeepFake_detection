@@ -1,4 +1,5 @@
 # DeepFake Detector
+## Team name: CodeCrusaders
 Access the code via the updated .ipynb file.
 
 Use the images from Images Folder for testing or use ur own dataset/videos(images).
